@@ -1,0 +1,11 @@
+h:\Node.NET\Node.NET\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\Node.NET\Node.NET\bin\Debug\Node.NET.exe
+h:\Node.NET\Node.NET\bin\Debug\Node.NET.pdb
+h:\Node.NET\Node.NET\bin\Debug\core.dll
+h:\Node.NET\Node.NET\bin\Debug\netMods.dll
+h:\Node.NET\Node.NET\bin\Debug\nodeMods.dll
+h:\Node.NET\Node.NET\bin\Debug\core.pdb
+h:\Node.NET\Node.NET\bin\Debug\netMods.pdb
+h:\Node.NET\Node.NET\bin\Debug\nodeMods.pdb
+h:\Node.NET\Node.NET\obj\x86\Debug\Node.NET.exe
+h:\Node.NET\Node.NET\obj\x86\Debug\Node.NET.pdb

@@ -1,0 +1,5 @@
+h:\Node.NET\Node.NETg\bin\Debug\Node.NETg.exe
+h:\Node.NET\Node.NETg\bin\Debug\Node.NETg.pdb
+h:\Node.NET\Node.NETg\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\Node.NET\Node.NETg\obj\x86\Debug\Node.NETg.exe
+h:\Node.NET\Node.NETg\obj\x86\Debug\Node.NETg.pdb

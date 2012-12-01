@@ -1,0 +1,5 @@
+h:\Node.NET\core\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\Node.NET\core\bin\Debug\core.pdb
+h:\Node.NET\core\obj\x86\Debug\core.pdb
+h:\Node.NET\core\bin\Debug\core.dll
+h:\Node.NET\core\obj\x86\Debug\core.dll

@@ -4,6 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SharpDevelop 4.2.2.8818
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core", "core\core.csproj", "{7904AE3F-3231-4BBC-9C25-544EBFB4DD44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nodeMods", "nodeMods\nodeMods.csproj", "{3DC00269-D3E3-43F3-A6C5-3967574D0633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netMods", "netMods\netMods.csproj", "{D2AF5C2C-043B-4546-B292-AF16E99DD451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Node.NET", "Node.NET\Node.NET.csproj", "{A1FDB5B3-13D0-443B-A4CA-BF44723EAC04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Node.NETg", "Node.NETg\Node.NETg.csproj", "{613347F0-15E1-4A99-A48F-90663858E1C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -14,5 +22,21 @@ Global
 		{7904AE3F-3231-4BBC-9C25-544EBFB4DD44}.Debug|x86.ActiveCfg = Debug|x86
 		{7904AE3F-3231-4BBC-9C25-544EBFB4DD44}.Release|x86.Build.0 = Release|x86
 		{7904AE3F-3231-4BBC-9C25-544EBFB4DD44}.Release|x86.ActiveCfg = Release|x86
+		{3DC00269-D3E3-43F3-A6C5-3967574D0633}.Debug|x86.Build.0 = Debug|x86
+		{3DC00269-D3E3-43F3-A6C5-3967574D0633}.Debug|x86.ActiveCfg = Debug|x86
+		{3DC00269-D3E3-43F3-A6C5-3967574D0633}.Release|x86.Build.0 = Release|x86
+		{3DC00269-D3E3-43F3-A6C5-3967574D0633}.Release|x86.ActiveCfg = Release|x86
+		{D2AF5C2C-043B-4546-B292-AF16E99DD451}.Debug|x86.Build.0 = Debug|x86
+		{D2AF5C2C-043B-4546-B292-AF16E99DD451}.Debug|x86.ActiveCfg = Debug|x86
+		{D2AF5C2C-043B-4546-B292-AF16E99DD451}.Release|x86.Build.0 = Release|x86
+		{D2AF5C2C-043B-4546-B292-AF16E99DD451}.Release|x86.ActiveCfg = Release|x86
+		{A1FDB5B3-13D0-443B-A4CA-BF44723EAC04}.Debug|x86.Build.0 = Debug|x86
+		{A1FDB5B3-13D0-443B-A4CA-BF44723EAC04}.Debug|x86.ActiveCfg = Debug|x86
+		{A1FDB5B3-13D0-443B-A4CA-BF44723EAC04}.Release|x86.Build.0 = Release|x86
+		{A1FDB5B3-13D0-443B-A4CA-BF44723EAC04}.Release|x86.ActiveCfg = Release|x86
+		{613347F0-15E1-4A99-A48F-90663858E1C4}.Debug|x86.Build.0 = Debug|x86
+		{613347F0-15E1-4A99-A48F-90663858E1C4}.Debug|x86.ActiveCfg = Debug|x86
+		{613347F0-15E1-4A99-A48F-90663858E1C4}.Release|x86.Build.0 = Release|x86
+		{613347F0-15E1-4A99-A48F-90663858E1C4}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,5 @@
+h:\Node.NET\nodeMods\bin\Debug\nodeMods.pdb
+h:\Node.NET\nodeMods\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\Node.NET\nodeMods\obj\x86\Debug\nodeMods.pdb
+h:\Node.NET\nodeMods\bin\Debug\nodeMods.dll
+h:\Node.NET\nodeMods\obj\x86\Debug\nodeMods.dll

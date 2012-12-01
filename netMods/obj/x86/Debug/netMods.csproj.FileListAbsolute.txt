@@ -1,0 +1,5 @@
+h:\Node.NET\netMods\bin\Debug\netMods.dll
+h:\Node.NET\netMods\bin\Debug\netMods.pdb
+h:\Node.NET\netMods\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\Node.NET\netMods\obj\x86\Debug\netMods.dll
+h:\Node.NET\netMods\obj\x86\Debug\netMods.pdb
